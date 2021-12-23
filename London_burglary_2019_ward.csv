@@ -1,0 +1,762 @@
+snt_name,snt_borough,burglary_count
+Heathrow Airport,Aviation Security(SO18),11
+Heathrow Terminal 2,Aviation Security(SO18),8
+Heathrow Terminal 3,Aviation Security(SO18),5
+Heathrow Terminal 4,Aviation Security(SO18),0
+Heathrow Terminal 5,Aviation Security(SO18),2
+Abbey,Barking and Dagenham,130
+Abbey,Merton,164
+Abbey,Barking and Dagenham,83
+Abbey,Merton,117
+Alibon,Barking and Dagenham,75
+Becontree,Barking and Dagenham,95
+Chadwell Heath,Barking and Dagenham,76
+Eastbrook,Barking and Dagenham,79
+Eastbury,Barking and Dagenham,97
+Gascoigne,Barking and Dagenham,75
+Goresbrook,Barking and Dagenham,98
+Heath,Barking and Dagenham,66
+Longbridge,Barking and Dagenham,109
+Mayesbrook,Barking and Dagenham,76
+Parsloes,Barking and Dagenham,50
+River,Barking and Dagenham,118
+Thames,Barking and Dagenham,126
+Valence,Barking and Dagenham,88
+Village,Barking and Dagenham,107
+Village,Merton,140
+Village,Barking and Dagenham,108
+Village,Merton,141
+Whalebone,Barking and Dagenham,92
+Brunswick Park,Barnet,132
+Burnt Oak,Barnet,170
+Childs Hill,Barnet,292
+Colindale,Barnet,153
+Coppetts,Barnet,153
+East Barnet,Barnet,143
+East Finchley,Barnet,126
+Edgware,Barnet,160
+Edgware,Harrow,131
+Edgware,Barnet,131
+Edgware,Harrow,102
+Finchley Church End,Barnet,153
+Garden Suburb,Barnet,186
+Golders Green,Barnet,213
+Hale,Barnet,152
+Hendon,Barnet,231
+High Barnet,Barnet,188
+Mill Hill,Barnet,195
+Oakleigh,Barnet,180
+Totteridge,Barnet,178
+Underhill,Barnet,158
+West Finchley,Barnet,148
+West Hendon,Barnet,199
+Woodhouse,Barnet,165
+Barnehurst,Bexley,47
+Belvedere,Bexley,153
+Bexleyheath,Bexley,127
+Blackfen and Lamorbey,Bexley,107
+Blendon and Penhill,Bexley,94
+Crayford,Bexley,115
+Crook Log,Bexley,113
+East Wickham,Bexley,99
+Erith,Bexley,127
+Falconwood and Welling,Bexley,115
+Longlands,Bexley,84
+Northumberland Heath,Bexley,76
+Sidcup,Bexley,124
+Slade Green and Northend,Bexley,116
+St Mary's and St James,Bexley,99
+Thamesmead East,Bexley,96
+West Heath,Bexley,70
+Alperton,Brent,92
+Barnhill,Brent,99
+Barnhill,Hillingdon,130
+Barnhill,Brent,104
+Barnhill,Hillingdon,135
+Brondesbury Park,Brent,140
+Dollis Hill,Brent,133
+Dudden Hill,Brent,128
+Fryent,Brent,103
+Harlesden,Brent,118
+Kensal Green,Brent,138
+Kenton,Brent,104
+Kilburn,Brent,171
+Kilburn,Camden,103
+Kilburn,Brent,198
+Kilburn,Camden,130
+Mapesbury,Brent,210
+Northwick Park,Brent,105
+Preston,Brent,118
+Queens Park,Brent,162
+Queensbury,Brent,139
+Queensbury,Harrow,123
+Queensbury,Brent,114
+Queensbury,Harrow,98
+Stonebridge,Brent,161
+Sudbury,Brent,67
+Tokyngton,Brent,142
+Welsh Harp,Brent,145
+Wembley Central,Brent,79
+Willesden Green,Brent,129
+Bickley,Bromley,125
+Biggin Hill,Bromley,50
+Bromley Common and Keston,Bromley,109
+Bromley Town,Bromley,235
+Chelsfield and Pratts Bottom,Bromley,106
+Chislehurst,Bromley,202
+Clock House,Bromley,133
+Copers Cope,Bromley,159
+Cray Valley East,Bromley,190
+Cray Valley West,Bromley,138
+Crystal Palace,Bromley,139
+Darwin,Bromley,49
+Farnborough and Crofton,Bromley,86
+Hayes and Coney Hall,Bromley,87
+Kelsey and Eden Park,Bromley,164
+Mottingham and Chislehurst North,Bromley,76
+Orpington,Bromley,193
+Penge and Cator,Bromley,192
+Petts Wood and Knoll,Bromley,102
+Plaistow and Sundridge,Bromley,104
+Shortlands,Bromley,46
+West Wickham,Bromley,81
+Belsize,Camden,138
+Bloomsbury,Camden,397
+Camden Town with Primrose Hill,Camden,251
+Cantelowes,Camden,145
+Fortune Green,Camden,108
+Frognal and Fitzjohns,Camden,152
+Gospel Oak,Camden,122
+Hampstead Town,Camden,159
+Haverstock,Camden,124
+Highgate,Camden,136
+Highgate,Haringey,177
+Highgate,Camden,124
+Highgate,Haringey,165
+Holborn and Covent Garden,Camden,511
+Kentish Town,Camden,122
+Kilburn,Brent,174
+Kilburn,Camden,106
+Kilburn,Brent,201
+Kilburn,Camden,133
+King's Cross,Camden,233
+Regent's Park,Camden,199
+Regent's Park,Camden,138
+Regent's Park,Westminster,85
+St Pancras and Somers Town,Camden,129
+Swiss Cottage,Camden,165
+West Hampstead,Camden,178
+Addiscombe East,Croydon,103
+Addiscombe West,Croydon,89
+Bensham Manor,Croydon,104
+Broad Green,Croydon,160
+Coulsdon Town,Croydon,75
+Crystal Palace and Upper Norwood,Croydon,137
+Fairfield,Croydon,235
+Fairfield,Wandsworth,225
+Fairfield,Croydon,145
+Fairfield,Wandsworth,135
+Kenley,Croydon,70
+New Addington North,Croydon,30
+New Addington South,Croydon,74
+Norbury Park,Croydon,83
+Norbury and Pollards Hill,Croydon,68
+Old Coulsdon,Croydon,46
+Park Hill and Whitgift,Croydon,46
+Purley Oaks and Riddlesdown,Croydon,60
+Purley and Woodcote,Croydon,137
+Sanderstead,Croydon,95
+Selhurst,Croydon,118
+Selsdon Vale and Forestdale,Croydon,23
+Selsdon and Addington Village,Croydon,71
+Shirley North,Croydon,85
+Shirley South,Croydon,97
+South Croydon,Croydon,107
+South Norwood,Croydon,164
+Thornton Heath,Croydon,173
+Waddon,Croydon,149
+West Thornton,Croydon,145
+Woodside,Croydon,106
+Woodside,Haringey,112
+Woodside,Croydon,96
+Woodside,Haringey,102
+Acton Central,Ealing,104
+Cleveland,Ealing,82
+Dormers Wells,Ealing,96
+Ealing Broadway,Ealing,149
+Ealing Common,Ealing,117
+East Acton,Ealing,283
+Elthorne,Ealing,110
+Greenford Broadway,Ealing,164
+Greenford Green,Ealing,137
+Hanger Hill,Ealing,160
+Hobbayne,Ealing,95
+Lady Margaret,Ealing,126
+North Greenford,Ealing,134
+Northfield,Ealing,134
+Northolt Mandeville,Ealing,140
+Northolt West End,Ealing,148
+Norwood Green,Ealing,98
+Perivale,Ealing,150
+South Acton,Ealing,124
+Southall Broadway,Ealing,79
+Southall Green,Ealing,107
+Southfield,Ealing,107
+Walpole,Ealing,96
+Bowes,Enfield,108
+Bush Hill Park,Enfield,120
+Chase,Enfield,128
+Cockfosters,Enfield,156
+Edmonton Green,Enfield,175
+Enfield Highway,Enfield,231
+Enfield Lock,Enfield,226
+Grange,Enfield,143
+Haselbury,Enfield,131
+Highlands,Enfield,110
+Jubilee,Enfield,163
+Lower Edmonton,Enfield,118
+Palmers Green,Enfield,183
+Ponders End,Enfield,168
+Southbury,Enfield,166
+Southgate,Enfield,121
+Southgate Green,Enfield,137
+Town,Enfield,148
+Town,Hammersmith and Fulham,127
+Town,Enfield,165
+Town,Hammersmith and Fulham,144
+Turkey Street,Enfield,171
+Upper Edmonton,Enfield,216
+Winchmore Hill,Enfield,134
+Abbey Wood,Greenwich,133
+Blackheath Westcombe,Greenwich,136
+Charlton,Greenwich,161
+Coldharbour and New Eltham,Greenwich,107
+Eltham North,Greenwich,114
+Eltham South,Greenwich,138
+Eltham West,Greenwich,92
+Glyndon,Greenwich,139
+Greenwich Park,Greenwich,0
+Greenwich West,Greenwich,218
+Kidbrooke with Hornfair,Greenwich,148
+Middle Park and Sutcliffe,Greenwich,153
+Peninsula,Greenwich,247
+Plumstead,Greenwich,127
+Shooters Hill,Greenwich,111
+Thamesmead Moorings,Greenwich,136
+Woolwich Common,Greenwich,140
+Woolwich Riverside,Greenwich,230
+Brownswood,Hackney,128
+Cazenove,Hackney,90
+Clissold,Hackney,167
+Dalston,Hackney,179
+De Beauvoir,Hackney,140
+Hackney Central,Hackney,199
+Hackney Downs,Hackney,144
+Hackney Wick,Hackney,170
+Haggerston,Hackney,185
+Homerton,Hackney,180
+Hoxton East and Shoreditch,Hackney,349
+Hoxton West,Hackney,178
+King's Park,Hackney,109
+Lea Bridge,Hackney,182
+Lea Bridge,Waltham Forest,104
+Lea Bridge,Hackney,200
+Lea Bridge,Waltham Forest,122
+London Fields,Hackney,209
+Shacklewell,Hackney,109
+Springfield,Hackney,191
+Stamford Hill West,Hackney,73
+Stoke Newington,Hackney,127
+Victoria,Hackney,140
+Woodberry Down,Hackney,109
+Addison,Hammersmith and Fulham,116
+Askew,Hammersmith and Fulham,112
+Avonmore and Brook Green,Hammersmith and Fulham,103
+College Park and Old Oak,Hammersmith and Fulham,99
+Fulham Broadway,Hammersmith and Fulham,162
+Fulham Reach,Hammersmith and Fulham,95
+Hammersmith Broadway,Hammersmith and Fulham,175
+Munster,Hammersmith and Fulham,135
+North End,Hammersmith and Fulham,70
+Palace Riverside,Hammersmith and Fulham,66
+Parsons Green and Walham,Hammersmith and Fulham,136
+Ravenscourt Park,Hammersmith and Fulham,108
+Sands End,Hammersmith and Fulham,115
+Shepherd's Bush Green,Hammersmith and Fulham,147
+Town,Enfield,147
+Town,Hammersmith and Fulham,126
+Town,Enfield,164
+Town,Hammersmith and Fulham,143
+Wormholt and White City,Hammersmith and Fulham,95
+Alexandra,Haringey,81
+Alexandra,Kingston upon Thames,49
+Alexandra,Haringey,77
+Alexandra,Kingston upon Thames,45
+Bounds Green,Haringey,92
+Bruce Grove,Haringey,139
+Crouch End,Haringey,191
+Fortis Green,Haringey,147
+Harringay,Haringey,180
+Highgate,Camden,137
+Highgate,Haringey,178
+Highgate,Camden,125
+Highgate,Haringey,166
+Hornsey,Haringey,108
+Muswell Hill,Haringey,130
+Noel Park,Haringey,193
+Northumberland Park,Haringey,179
+Seven Sisters,Haringey,154
+St Ann's,Haringey,146
+Stroud Green,Haringey,145
+Tottenham Green,Haringey,242
+Tottenham Hale,Haringey,180
+West Green,Haringey,151
+White Hart Lane,Haringey,137
+Woodside,Croydon,107
+Woodside,Haringey,113
+Woodside,Croydon,97
+Woodside,Haringey,103
+Belmont,Harrow,65
+Belmont,Sutton,89
+Belmont,Harrow,66
+Belmont,Sutton,90
+Canons,Harrow,113
+Edgware,Barnet,160
+Edgware,Harrow,131
+Edgware,Barnet,131
+Edgware,Harrow,102
+Greenhill,Harrow,142
+Harrow Town Centre,Harrow,20
+Harrow Weald,Harrow,110
+Harrow on the Hill,Harrow,87
+Hatch End,Harrow,80
+Headstone North,Harrow,120
+Headstone South,Harrow,90
+Kenton East,Harrow,67
+Kenton West,Harrow,69
+Marlborough,Harrow,141
+Pinner,Harrow,128
+Pinner South,Harrow,73
+Queensbury,Brent,140
+Queensbury,Harrow,124
+Queensbury,Brent,115
+Queensbury,Harrow,99
+Rayners Lane,Harrow,92
+Roxbourne,Harrow,127
+Roxeth,Harrow,81
+Stanmore Park,Harrow,98
+Wealdstone,Harrow,87
+West Harrow,Harrow,85
+Brooklands,Havering,165
+Cranham,Havering,58
+Elm Park,Havering,67
+Emerson Park,Havering,71
+Gooshays,Havering,131
+Hacton,Havering,39
+Harold Wood,Havering,141
+Havering Park,Havering,86
+Heaton,Havering,87
+Hylands,Havering,92
+Mawneys,Havering,88
+Pettits,Havering,135
+Rainham and Wennington,Havering,111
+Romford Town,Havering,211
+South Hornchurch,Havering,136
+Squirrel's Heath,Havering,105
+St Andrew's,Havering,75
+Upminster,Havering,110
+Barnhill,Brent,105
+Barnhill,Hillingdon,136
+Barnhill,Brent,110
+Barnhill,Hillingdon,141
+Botwell,Hillingdon,132
+Brunel,Hillingdon,133
+Cavendish,Hillingdon,81
+Charville,Hillingdon,104
+Eastcote and East Ruislip,Hillingdon,133
+Harefield,Hillingdon,66
+Hayes Town Centre,Hillingdon,86
+Heathrow Villages,Hillingdon,167
+Hillingdon East,Hillingdon,83
+Ickenham,Hillingdon,100
+Manor,Hillingdon,117
+Northwood,Hillingdon,92
+Northwood Hills,Hillingdon,132
+Pinkwell,Hillingdon,135
+South Ruislip,Hillingdon,114
+Townfield,Hillingdon,105
+Uxbridge North,Hillingdon,131
+Uxbridge South,Hillingdon,178
+Uxbridge Town Centre,Hillingdon,29
+West Drayton,Hillingdon,157
+West Ruislip,Hillingdon,95
+Yeading,Hillingdon,145
+Yiewsley,Hillingdon,132
+Bedfont,Hounslow,84
+Brentford,Hounslow,191
+Chiswick Homefields,Hounslow,127
+Chiswick Riverside,Hounslow,125
+Cranford,Hounslow,105
+Feltham North,Hounslow,97
+Feltham West,Hounslow,59
+Hanworth,Hounslow,87
+Hanworth Park,Hounslow,77
+Heston Central,Hounslow,105
+Heston East,Hounslow,108
+Heston West,Hounslow,108
+Hounslow Central,Hounslow,71
+Hounslow Heath,Hounslow,103
+Hounslow South,Hounslow,79
+Hounslow Town Centre,Hounslow,115
+Hounslow West,Hounslow,83
+Isleworth,Hounslow,67
+Osterley and Spring Grove,Hounslow,129
+Syon,Hounslow,133
+Turnham Green,Hounslow,216
+Angel Town Centre,Islington,91
+Barnsbury,Islington,50
+Bunhill,Islington,250
+Caledonian,Islington,167
+Canonbury,Islington,132
+Clerkenwell,Islington,220
+Finsbury Park,Islington,220
+Highbury East,Islington,177
+Highbury West,Islington,210
+Hillrise,Islington,101
+Holloway,Islington,166
+Junction,Islington,195
+Mildmay,Islington,149
+St George's,Islington,159
+St George's,Southwark,70
+St George's,Islington,172
+St George's,Southwark,83
+St Mary's,Islington,120
+St Peter's,Islington,127
+St Peter's,Tower Hamlets,240
+St Peter's,Islington,196
+St Peter's,Tower Hamlets,309
+Tollington,Islington,164
+Abingdon,Kensington and Chelsea,89
+Brompton and Hans Town,Kensington and Chelsea,227
+Campden,Kensington and Chelsea,118
+Chelsea Riverside,Kensington and Chelsea,94
+Colville,Kensington and Chelsea,131
+Courtfield,Kensington and Chelsea,182
+Dalgarno,Kensington and Chelsea,46
+Earl's Court,Kensington and Chelsea,161
+Golborne,Kensington and Chelsea,89
+Holland,Kensington and Chelsea,99
+Norland,Kensington and Chelsea,86
+Notting Dale,Kensington and Chelsea,99
+Pembridge,Kensington and Chelsea,115
+Queen's Gate,Kensington and Chelsea,118
+Redcliffe,Kensington and Chelsea,121
+Royal Hospital,Kensington and Chelsea,178
+St Helen's,Kensington and Chelsea,58
+Stanley,Kensington and Chelsea,157
+Alexandra,Haringey,81
+Alexandra,Kingston upon Thames,49
+Alexandra,Haringey,77
+Alexandra,Kingston upon Thames,45
+Berrylands,Kingston upon Thames,35
+Beverley,Kingston upon Thames,83
+Canbury,Kingston upon Thames,82
+Chessington North and Hook,Kingston upon Thames,43
+Chessington South,Kingston upon Thames,43
+Coombe Hill,Kingston upon Thames,105
+Coombe Vale,Kingston upon Thames,42
+Grove,Kingston upon Thames,129
+Norbiton,Kingston upon Thames,67
+Old Malden,Kingston upon Thames,54
+St James,Kingston upon Thames,61
+St Mark's,Kingston upon Thames,64
+Surbiton Hill,Kingston upon Thames,67
+Tolworth and Hook Rise,Kingston upon Thames,57
+Tudor,Kingston upon Thames,43
+Bishop's,Lambeth,234
+Brixton Hill,Lambeth,187
+Clapham Common,Lambeth,150
+Clapham Town,Lambeth,191
+Coldharbour,Lambeth,199
+Ferndale,Lambeth,201
+Gipsy Hill,Lambeth,104
+Herne Hill,Lambeth,204
+Knight's Hill,Lambeth,116
+Larkhall,Lambeth,144
+Oval,Lambeth,163
+Prince's,Lambeth,158
+St Leonard's,Lambeth,194
+Stockwell,Lambeth,95
+Streatham Hill,Lambeth,129
+Streatham South,Lambeth,115
+Streatham Wells,Lambeth,119
+Thornton,Lambeth,91
+Thurlow Park,Lambeth,153
+Tulse Hill,Lambeth,119
+Vassall,Lambeth,133
+Bellingham,Lewisham,157
+Blackheath,Lewisham,161
+Brockley,Lewisham,235
+Catford South,Lewisham,99
+Crofton Park,Lewisham,119
+Downham,Lewisham,94
+Evelyn,Lewisham,172
+Forest Hill,Lewisham,150
+Grove Park,Lewisham,117
+Ladywell,Lewisham,118
+Lee Green,Lewisham,155
+Lewisham Central,Lewisham,191
+Lewisham Town Centre,Lewisham,98
+New Cross,Lewisham,179
+Perry Vale,Lewisham,94
+Rushey Green,Lewisham,149
+Sydenham,Lewisham,162
+Telegraph Hill,Lewisham,97
+Whitefoot,Lewisham,134
+Abbey,Barking and Dagenham,129
+Abbey,Merton,163
+Abbey,Barking and Dagenham,82
+Abbey,Merton,116
+Cannon Hill,Merton,72
+Colliers Wood,Merton,105
+Cricket Green,Merton,106
+Dundonald,Merton,76
+Figge's Marsh,Merton,68
+Graveney,Merton,88
+Graveney,Wandsworth,114
+Graveney,Merton,89
+Graveney,Wandsworth,115
+Hillside,Merton,70
+Lavender Fields,Merton,66
+Longthornton,Merton,70
+Lower Morden,Merton,51
+Merton Park,Merton,84
+Pollards Hill,Merton,43
+Ravensbury,Merton,95
+Raynes Park,Merton,73
+St Helier,Merton,69
+St Helier,Sutton,44
+St Helier,Merton,71
+St Helier,Sutton,46
+Trinity,Merton,63
+Village,Barking and Dagenham,107
+Village,Merton,140
+Village,Barking and Dagenham,108
+Village,Merton,141
+West Barnes,Merton,85
+Wimbledon Park,Merton,73
+Beckton,Newham,135
+Boleyn,Newham,100
+Canning Town North,Newham,125
+Canning Town South,Newham,138
+Custom House,Newham,105
+East Ham Central,Newham,100
+East Ham North,Newham,57
+East Ham South,Newham,100
+East Village and International Quarter,Newham,51
+Forest Gate North,Newham,97
+Forest Gate South,Newham,98
+Green Street East,Newham,65
+Green Street West,Newham,71
+Little Ilford,Newham,108
+Manor Park,Newham,89
+Plaistow North,Newham,97
+Plaistow South,Newham,114
+Royal Docks,Newham,110
+Stratford and New Town,Newham,265
+Wall End,Newham,94
+West Ham,Newham,83
+Westfield Shopping Centre,Newham,47
+Aldborough,Redbridge,133
+Barkingside,Redbridge,87
+Bridge,Redbridge,89
+Chadwell,Redbridge,98
+Churchfields,Redbridge,95
+Clayhall,Redbridge,74
+Clementswood,Redbridge,65
+Cranbrook,Redbridge,98
+Fairlop,Redbridge,122
+Fullwell,Redbridge,100
+Goodmayes,Redbridge,112
+Hainault,Redbridge,118
+Ilford Town,Redbridge,133
+Loxford,Redbridge,95
+Mayfield,Redbridge,77
+Monkhams,Redbridge,74
+Newbury,Redbridge,98
+Seven Kings,Redbridge,67
+South Woodford,Redbridge,128
+Valentines,Redbridge,131
+Wanstead Park,Redbridge,63
+Wanstead Village,Redbridge,126
+Barnes,Richmond upon Thames,80
+Bushy Park,Richmond upon Thames,8
+East Sheen,Richmond upon Thames,73
+Fulwell and Hampton Hill,Richmond upon Thames,66
+"Ham, Petersham and Richmond Riverside",Richmond upon Thames,81
+Hampton,Richmond upon Thames,89
+Hampton North,Richmond upon Thames,104
+Hampton Wick,Richmond upon Thames,68
+Heathfield,Richmond upon Thames,58
+Kew,Richmond upon Thames,110
+Mortlake and Barnes Common,Richmond upon Thames,123
+North Richmond,Richmond upon Thames,84
+Richmond Park,Richmond upon Thames,4
+South Richmond,Richmond upon Thames,151
+South Twickenham,Richmond upon Thames,55
+St Margarets and North Twickenham,Richmond upon Thames,83
+Teddington,Richmond upon Thames,55
+Twickenham Riverside,Richmond upon Thames,97
+West Twickenham,Richmond upon Thames,59
+Whitton,Richmond upon Thames,94
+Borough and Bankside,Southwark,223
+Camberwell Green,Southwark,214
+Champion Hill,Southwark,64
+Chaucer,Southwark,124
+Dulwich Hill,Southwark,68
+Dulwich Village,Southwark,168
+Dulwich Wood,Southwark,116
+Faraday,Southwark,146
+Goose Green,Southwark,119
+London Bridge and West Bermondsey,Southwark,275
+Newington,Southwark,122
+North Bermondsey,Southwark,152
+North Walworth,Southwark,181
+Nunhead and Queen's Road,Southwark,132
+Old Kent Road,Southwark,159
+Peckham,Southwark,79
+Peckham Rye,Southwark,65
+Rotherhithe,Southwark,145
+Rye Lane,Southwark,170
+South Bermondsey,Southwark,176
+St George's,Islington,157
+St George's,Southwark,68
+St George's,Islington,170
+St George's,Southwark,81
+St Giles,Southwark,171
+Surrey Docks,Southwark,130
+Beddington North,Sutton,119
+Beddington South,Sutton,83
+Belmont,Harrow,64
+Belmont,Sutton,88
+Belmont,Harrow,65
+Belmont,Sutton,89
+Carshalton Central,Sutton,65
+Carshalton South and Clockhouse,Sutton,66
+Cheam,Sutton,121
+Nonsuch,Sutton,70
+St Helier,Merton,68
+St Helier,Sutton,43
+St Helier,Merton,70
+St Helier,Sutton,45
+Stonecot,Sutton,73
+Sutton Central,Sutton,116
+Sutton North,Sutton,85
+Sutton South,Sutton,75
+Sutton West,Sutton,69
+The Wrythe,Sutton,73
+Wallington North,Sutton,81
+Wallington South,Sutton,61
+Wandle Valley,Sutton,49
+Worcester Park,Sutton,58
+Bethnal Green,Tower Hamlets,304
+Blackwall and Cubitt Town,Tower Hamlets,111
+Bow East,Tower Hamlets,240
+Bow West,Tower Hamlets,124
+Bromley North,Tower Hamlets,113
+Bromley South,Tower Hamlets,117
+Canary Wharf,Tower Hamlets,119
+Island Gardens,Tower Hamlets,44
+Lansbury,Tower Hamlets,196
+Limehouse,Tower Hamlets,61
+Mile End,Tower Hamlets,198
+Poplar,Tower Hamlets,63
+Shadwell,Tower Hamlets,109
+Spitalfields and Banglatown,Tower Hamlets,249
+St Dunstan's,Tower Hamlets,135
+St Katharine's and Wapping,Tower Hamlets,169
+St Peter's,Islington,129
+St Peter's,Tower Hamlets,242
+St Peter's,Islington,198
+St Peter's,Tower Hamlets,311
+Stepney Green,Tower Hamlets,119
+Weavers,Tower Hamlets,202
+Whitechapel,Tower Hamlets,250
+Cann Hall,Waltham Forest,99
+Cathall,Waltham Forest,89
+Chapel End,Waltham Forest,90
+Chingford Green,Waltham Forest,81
+Endlebury,Waltham Forest,86
+Forest,Waltham Forest,91
+Grove Green,Waltham Forest,58
+Hale End and Highams Park,Waltham Forest,85
+Hatch Lane,Waltham Forest,97
+High Street,Waltham Forest,120
+Higham Hill,Waltham Forest,88
+Hoe Street,Waltham Forest,129
+Larkswood,Waltham Forest,124
+Lea Bridge,Hackney,182
+Lea Bridge,Waltham Forest,104
+Lea Bridge,Hackney,200
+Lea Bridge,Waltham Forest,122
+Leyton,Waltham Forest,111
+Leytonstone,Waltham Forest,91
+Markhouse,Waltham Forest,91
+Valley,Waltham Forest,126
+William Morris,Waltham Forest,95
+Wood Street,Waltham Forest,107
+Balham,Wandsworth,184
+Bedford,Wandsworth,130
+Earlsfield,Wandsworth,107
+East Putney,Wandsworth,134
+Fairfield,Croydon,234
+Fairfield,Wandsworth,224
+Fairfield,Croydon,144
+Fairfield,Wandsworth,134
+Furzedown,Wandsworth,133
+Graveney,Merton,87
+Graveney,Wandsworth,113
+Graveney,Merton,88
+Graveney,Wandsworth,114
+Latchmere,Wandsworth,103
+Nightingale,Wandsworth,150
+Northcote,Wandsworth,167
+Queenstown,Wandsworth,163
+Roehampton and Putney Heath,Wandsworth,90
+Shaftesbury,Wandsworth,148
+Southfields,Wandsworth,157
+St Mary's Park,Wandsworth,139
+Thamesfield,Wandsworth,175
+Tooting,Wandsworth,133
+Tooting Town Centre,Wandsworth,55
+Wandsworth Common,Wandsworth,115
+West Hill,Wandsworth,99
+West Putney,Wandsworth,118
+Abbey Road,Westminster,111
+Bayswater,Westminster,237
+Bryanston and Dorset Square,Westminster,248
+Church Street,Westminster,74
+Churchill,Westminster,48
+Covent Garden,Westminster,224
+Harrow Road,Westminster,120
+Hyde Park,Westminster,318
+Hyde Park and Kensington Gardens,Westminster,9
+Knightsbridge and Belgravia,Westminster,130
+Lancaster Gate,Westminster,372
+Little Venice,Westminster,162
+Maida Vale,Westminster,79
+Marylebone High Street,Westminster,342
+Mayfair and St James,Westminster,378
+Oxford Street Regent Street and Bond Street,Westminster,405
+Queen's Park,Westminster,125
+Regent's Park,Camden,199
+Regent's Park,Camden,138
+Soho,Westminster,407
+St. James's,Westminster,1
+Strand and Whitehall,Westminster,154
+Tachbrook,Westminster,65
+Victoria Business and Transport,Westminster,68
+Vincent Square,Westminster,142
+Warwick,Westminster,106
+West End,Westminster,99
+Westbourne,Westminster,133
